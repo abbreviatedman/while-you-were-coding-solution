@@ -1,4 +1,3 @@
-# While You Were Coding
-### Some While Loop Challenges
+# While You Were Coding - Solution
 
-All the directions are in `main.js`. Enjoy!
+One possible solution to [While You Were Coding](https://github.com/abbreviatedman/while-you-were-coding).
